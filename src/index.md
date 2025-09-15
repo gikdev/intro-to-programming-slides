@@ -1,23 +1,13 @@
 ---
 theme: default
 transition: slide-right
+layout: center
 selectable: true
 routerMode: hash
 ---
 
-# آشنایی با برنامه‌نویسی
-
-قسمت ۱: مقدمه
+# دوره آشنایی با برنامه‌نویسی
 
 ---
-
-# نگاه کلی
-
-<v-clicks>
-
-- قراره چی‌ها یاد بگیریم
-- آخر سر چی گیر ما میاد؟
-- و چقدر هزینه داره
-- و ...
-
-</v-clicks>
+src: ./slides/what-is-programming.md
+---
