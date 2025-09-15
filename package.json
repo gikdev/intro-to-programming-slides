@@ -1,0 +1,21 @@
+{
+  "name": "intro-to-programming",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "format": "prettier",
+    "build": "slidev build",
+    "dev": "slidev ./src/index.md",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^52.1.0",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "vue": "^3.5.18"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2",
+    "prettier-plugin-slidev": "^1.0.5"
+  }
+}

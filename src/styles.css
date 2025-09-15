@@ -1,0 +1,24 @@
+:root {
+  --prism-font-family: "Vazir Code Hack";
+}
+
+* {
+  font-family: "Lahzeh";
+}
+
+::selection {
+  background-color: #00bcff;
+  color: black;
+}
+
+#slide-content {
+  direction: rtl;
+}
+
+.slidev-code,
+.slidev-code *,
+.note,
+.note * {
+  direction: ltr;
+  font-family: var(--prism-font-family) !important;
+}
