@@ -16,5 +16,6 @@ routerMode: hash
 # src: ./slides/learning-programming.md
 # src: ./slides/ai-in-programming.md
 # src: ./slides/things-we-can-build.md
-src: ./slides/programming-roles.md
+# src: ./slides/programming-roles.md
+src: ./slides/ways-to-money.md
 ---
