@@ -2,10 +2,6 @@
   --prism-font-family: "Vazir Code Hack";
 }
 
-* {
-  font-family: "Vazirmatn";
-}
-
 h1, h2, h3,h4,h5,h6 {
   font-family: "Lahzeh";
 }
@@ -18,8 +14,9 @@ h1,h2{
   color: black;
 }
 
-#slide-content {
+#slide-content * {
   direction: rtl;
+  font-family: "Vazirmatn";
 }
 
 .slidev-code,
