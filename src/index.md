@@ -11,5 +11,6 @@ routerMode: hash
 </button>
 
 ---
-src: ./slides/what-is-programming.md
+# src: ./slides/what-is-programming.md
+src: ./slides/why-programming.md
 ---

@@ -27,3 +27,8 @@ h1, h2, h3,h4,h5,h6 {
   direction: ltr;
   font-family: var(--prism-font-family) !important;
 }
+
+li ol,
+li ul {
+  margin-inline-start: 2em;
+}
