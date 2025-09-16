@@ -8,6 +8,7 @@
         "@slidev/cli": "^52.1.0",
         "@slidev/theme-default": "latest",
         "@slidev/theme-seriph": "latest",
+        "slidev-component-spotlight": "^1.1.0",
         "vue": "^3.5.18",
       },
       "devDependencies": {
@@ -1143,9 +1144,13 @@
 
     "sisteransi": ["sisteransi@1.0.5", "", {}, "sha512-bLGGlR1QxBcynn2d5YmDX4MGjlZvy2MRBDRNHLJ8VI6l6+9FUiyTFNJ0IveOSP0bcXgVDPRcfGqA0pjaqUpfVg=="],
 
+    "slidev-component-spotlight": ["slidev-component-spotlight@1.1.0", "", { "dependencies": { "spotlight-vue": "^0.5.1" }, "peerDependencies": { "@slidev/client": "^0.48.0", "vue": "^3.2.24" } }, "sha512-1REEjkrbleSpg2DsjLCFCjhskxIV6HrI/nFI2f02byQ/iPWUYoTKIoUKUEWetLhk8xzQXbF9K0sNB/H4qJ9PKg=="],
+
     "source-map-js": ["source-map-js@1.2.1", "", {}, "sha512-UXWMKhLOwVKb728IUtQPXxfYU+usdybtUrK/8uGE8CQMvrhOpwvzDBwj0QhSL7MQc7vIsISBG8VQ8+IDQxpfQA=="],
 
     "space-separated-tokens": ["space-separated-tokens@2.0.2", "", {}, "sha512-PEGlAwrG8yXGXRjW32fGbg66JAlOAwbObuqVoJpv/mRgoWDQfgH1wDPvtzWyUSNAXBGSk8h755YDbbcEy3SH2Q=="],
+
+    "spotlight-vue": ["spotlight-vue@0.5.1", "", { "peerDependencies": { "@vueuse/core": "^8.2.5", "vue": "^3.2.31" } }, "sha512-B3+hFBbSjcUjOTYVqUkvU+zN7q1LdAogkFhs6/8+j7PepYOue7a7t9hIEwUtCcaLkcPgyKajryH7oKE8PiFshg=="],
 
     "sprintf-js": ["sprintf-js@1.0.3", "", {}, "sha512-D9cPgkvLlV3t3IzL0D0YLvGA9Ahk4PcvVwUbN0dSGr1aP0Nrt4AEnTUbuGvquEC0mA64Gqt1fzirlRs5ibXx8g=="],
 

@@ -2,7 +2,6 @@
 theme: default
 transition: slide-right
 layout: center
-selectable: true
 routerMode: hash
 ---
 
@@ -12,5 +11,6 @@ routerMode: hash
 
 ---
 # src: ./slides/what-is-programming.md
-src: ./slides/why-programming.md
+# src: ./slides/why-programming.md
+src: ./slides/prerequisites.md
 ---
