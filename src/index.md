@@ -15,5 +15,6 @@ routerMode: hash
 # src: ./slides/prerequisites.md
 # src: ./slides/learning-programming.md
 # src: ./slides/ai-in-programming.md
-src: ./slides/things-we-can-build.md
+# src: ./slides/things-we-can-build.md
+src: ./slides/programming-roles.md
 ---
