@@ -11,12 +11,12 @@ routerMode: hash
 
 ---
 # src: ./slides/what-is-programming.md
-# src: ./slides/why-programming.md
+src: ./slides/why-programming.md
 # src: ./slides/prerequisites.md
 # src: ./slides/learning-programming.md
 # src: ./slides/ai-in-programming.md
 # src: ./slides/things-we-can-build.md
 # src: ./slides/programming-roles.md
 # src: ./slides/ways-to-money.md
-src: ./slides/notes.md
+# src: ./slides/notes.md
 ---
